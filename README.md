@@ -7,9 +7,9 @@ Con todos los nervios del mundo ha llegado el momento de plasmar lo aprendido en
 #####  Dev tools - *Visual Studio Code | Google Chrome | Viewport Resizer*
 #####  Arquitectura -*Atomic Design*
 #####  Responsive Layout - *Flexbox, Grid y Media Queries*
-##### Responsive - *Desktop | iPad Pro | Iphone 12 pro (emulando a iphone 14)*
-#####  Diseño - *Figma* [click para ver el diseño](https://www.figma.com/file/hqzFwF9ptLoRGPCo7wRIzD/Portafolio-Dev-Gonzalo-Aquino?type=design&node-id=0%3A1&t=Az05s96xTFD9gW4n-1 "Portafolio Gonzalo Aquino")
-##### Portafolio - *Web host*  [Accede a mí portafolio aquí](https://desarrollowebgonzaloaqui.000webhostapp.com/ "Accede a mí portafolio aquí")
+#####  Responsive - *Desktop | iPad Pro | Iphone 12 pro (emulando a iphone 14)*
+#####  Diseño - *Figma (Se realizan mejoras al desarrollo final)* [click para ver el diseño](https://www.figma.com/file/hqzFwF9ptLoRGPCo7wRIzD/Portafolio-Dev-Gonzalo-Aquino?type=design&node-id=0%3A1&t=Az05s96xTFD9gW4n-1 "Portafolio Gonzalo Aquino")
+#####  Portafolio - *Web host*  [Accede a mí portafolio aquí](https://desarrollowebgonzaloaqui.000webhostapp.com/ "Accede a mí portafolio aquí")
 
 #####  ¡Gracias por tu tiempo y tu retroalimentación! ✌
 
