@@ -1,0 +1,17 @@
+.portafolio__alurageek--proyectoDesktop {
+    width: 450px;
+    height: 400px;
+    margin-right: 2rem;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__alurageek--proyectoDesktop {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__alurageek--proyectoDesktop {
+        display: none;
+    }
+}

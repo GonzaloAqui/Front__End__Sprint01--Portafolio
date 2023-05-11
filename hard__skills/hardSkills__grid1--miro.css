@@ -1,0 +1,26 @@
+.hardSkills__grid1--miro {
+    width: 130px;
+    height: 110px;
+    /*border: 2px solid var(--hardskills__logos);
+    border-radius: 10px;*/
+    padding-top: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 2rem;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .hardSkills__grid1--miro {
+        width: 100px;
+        height: 110px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .hardSkills__grid1--miro {
+        width: 100px;
+        height: 110px;
+        margin-right: initial;
+    }
+}

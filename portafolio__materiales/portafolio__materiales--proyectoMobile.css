@@ -1,0 +1,12 @@
+.portafolio__materiales--proyectoMobile {
+    width: 120px;
+    height: 250px;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__materiales--proyectoMobile {
+        width: calc(120px + 10%);
+        height: calc(250px + 20%);
+        padding-bottom: 1rem;
+    }
+}

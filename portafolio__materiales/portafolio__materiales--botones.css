@@ -1,0 +1,5 @@
+.portafolio__materiales--botones {
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.portafolio__materiales--descripciones {
+    display: flex;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__materiales--descripciones {
+        width: 100%;
+    }
+}

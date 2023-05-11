@@ -1,0 +1,22 @@
+.portafolio__materiales--bg {
+    width: 100%;
+    height: 950px;
+    background-color: var(--portazetoFlix__bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__materiales--bg {
+        width: 100%;
+        height: 736px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__materiales--bg  {
+        width: 100%;
+        height: 667px;
+    }
+}

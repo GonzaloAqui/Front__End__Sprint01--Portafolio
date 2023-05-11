@@ -1,0 +1,39 @@
+.portafolio__materiales--btnRepo {
+    color: var(--portazetoFlix__btn--sitiolink);
+    background-color: var(--portafoliomateriales__btn--repositorio);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 300;
+    text-decoration: none;
+    padding: 5px 40px;
+    border: 2px solid var(--portafoliomateriales__btn--repositorio);
+    border-radius: 5px
+}
+
+.portafolio__materiales--btnRepo:hover {
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+    transition: .4s;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__materiales--btnRepo {
+        padding: 3px 20px;
+    }
+    .portafolio__materiales--btnRepo:hover {
+        -webkit-transform: scale(.9);
+        transform: scale(.9);
+        transition: .4s;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__materiales--btnRepo  {
+        padding: 3px 25px;
+    }
+    .portafolio__materiales--btnRepo:hover {
+        -webkit-transform: scale(.9);
+        transform: scale(.9);
+        transition: .4s;
+    }
+}

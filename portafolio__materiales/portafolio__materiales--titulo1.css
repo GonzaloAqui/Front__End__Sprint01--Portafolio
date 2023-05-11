@@ -1,0 +1,18 @@
+.portafolio__materiales--titulo1 {
+    color: var(--portafoliomateriales__titulo1);
+    font-family: var(--font-familytitulos);
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__materiales--titulo1 {
+        padding-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__materiales--titulo1 {
+        padding-bottom: 1rem;
+    }
+}

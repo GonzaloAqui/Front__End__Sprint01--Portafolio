@@ -1,0 +1,7 @@
+.portafolio__alurageek--titulo1 {
+    color: var(--portafolioaluraGeek__titulo1);
+    font-family: var(--font-familytitulos);
+    font-size: 2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}

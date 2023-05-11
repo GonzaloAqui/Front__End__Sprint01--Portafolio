@@ -1,0 +1,7 @@
+.portafolio__alurageek--descripcion2 {
+    color: var(--portafolioaluraGeek__descripciones);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 400;
+    padding-left: 1rem;
+}
