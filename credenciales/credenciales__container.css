@@ -1,0 +1,30 @@
+.credenciales__container {
+    width: 70%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .credenciales__container {
+        width: 80%;
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .credenciales__container {
+        width: 350px;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+}

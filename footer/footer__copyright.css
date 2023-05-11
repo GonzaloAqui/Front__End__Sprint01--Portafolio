@@ -1,0 +1,22 @@
+.footer__copyright {
+    color: var(--footer__p);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 300;
+    
+}
+
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .footer__copyright {
+        width: 80%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .footer__copyright {
+        width: 200px;
+        text-align: center;
+    }
+}

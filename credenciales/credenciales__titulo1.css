@@ -1,0 +1,8 @@
+.credenciales__titulo1 {
+    color: var(--credenciales__titulos1);
+    font-family: var(--font-familytitulos);
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-right: 1rem;
+}

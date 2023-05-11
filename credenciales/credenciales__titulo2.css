@@ -1,0 +1,13 @@
+.credenciales__titulo2 {
+    color: var(--credenciales__titulos2);
+    font-family: var(--font-familytitulos);
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .credenciales__titulo2 {
+        font-size: 2.5rem;
+    }
+}

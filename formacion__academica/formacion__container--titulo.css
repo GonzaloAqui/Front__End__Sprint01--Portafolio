@@ -1,0 +1,32 @@
+.formacion__container--titulo {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 6rem;
+    border-right: 1px solid var(--formacionacademica__line);
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .formacion__container--titulo {
+        width: 250px;
+        height: 150px;
+        margin-right: initial;
+        border: none;
+        align-items: flex-start;
+        padding-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .formacion__container--titulo {
+        width: 250px;
+        height: 100px;
+        margin-right: initial;
+        border: none;
+        align-items: flex-start;
+        padding-top: 5rem;
+    }
+}

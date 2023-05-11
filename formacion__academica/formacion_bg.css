@@ -1,0 +1,35 @@
+.formacion_bg { 
+    width: 100%;
+    height: 950px;
+    background-color: var(--formacionacademica__bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .formacion_bg {
+        width: 80%;
+        position: relative;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .formacion_bg {
+        width: 100%;
+        height: 1000px;
+        position: relative;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .formacion_bg {
+        width: 100%;
+        height: 1000px;
+        flex-direction: column;
+    }
+}

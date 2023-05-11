@@ -1,0 +1,7 @@
+.formacion__innovaccionMicrosoft--subtitulo1 {
+    color: var(--formacionacademica__titulos1);
+    font-family: var(--font-familytitulos);
+    font-size: 2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}

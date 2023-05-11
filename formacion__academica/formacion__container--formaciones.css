@@ -1,0 +1,32 @@
+.formacion__container--formaciones {
+    width: 500px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 5.5rem;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .formacion__container--formaciones {
+        width: 80%;
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 1rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .formacion__container--formaciones {
+        width: 90%;
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 2rem;
+    }
+}

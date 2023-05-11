@@ -1,0 +1,24 @@
+.credenciales__box--titulo {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .credenciales__box--titulo {
+        flex-direction: column;
+    }
+
+    .credenciales__box--titulo img {
+        padding-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .credenciales__box--titulo {
+        flex-direction: column;
+    }
+    .credenciales__box--titulo > img {
+        width: 90px;
+        height: 90px;
+    }
+}

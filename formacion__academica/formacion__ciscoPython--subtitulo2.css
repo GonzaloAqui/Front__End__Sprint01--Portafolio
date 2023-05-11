@@ -1,0 +1,7 @@
+.formacion__ciscoPython--subtitulo2 {
+    color: var(--formacionacademica__titulos2);
+    font-family: var(--font-familytitulos);
+    font-size: 2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}

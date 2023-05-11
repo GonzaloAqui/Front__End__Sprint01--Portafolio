@@ -1,0 +1,6 @@
+.formacion__oracleAlura--info {
+    color: var(--formacionacademica__info);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 300;
+}
