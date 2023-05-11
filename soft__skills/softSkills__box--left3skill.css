@@ -1,0 +1,22 @@
+.softSkills__box--left3skill {
+    color: var(--softskills__btn--border--links);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px 100px;
+    border: 1px solid var(--softskills__btn--border--links);
+    border-radius: 5px;
+    text-align: center;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .softSkills__box--left3skill {
+        padding: 10px 50px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .softSkills__box--left3skill {
+        padding: 10px 50px;
+    }
+}

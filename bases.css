@@ -1,0 +1,81 @@
+:root {
+
+--menu__btn: #000000;
+--menu__btn--border--links: #00FF00;
+
+--principal__bg: #000000;
+
+--acercademi__bg: #000000;
+--acercademi__titulo1: #FFFFFF;
+--acercademi__titulo2: #00FF00;
+--acercademi__info: #00FF00;
+
+--hardskills__bg: #1E1E1E;
+--hardskills__titulo1: #FFFFFF;
+--hardskills__titulo2: #00FF00;
+--hardskills__logos: #00FF00;
+--hardskills__nombres--iconos: #FFFFFF;
+
+--softskills__bg: #00FF00;
+--softskills__titulo1: #1E1E1E;
+--softskills__titulo2: #FFFFFF;
+--softskills__btn--border--links: #1E1E1E;
+--softskills__btn--btn: #FFFFFF;
+
+--formacionacademica__bg: #000000;
+--formacionacademica__titulos1: #FFFFFF;
+--formacionacademica__titulos2: #00FF00;
+--formacionacademica__info: #00FF00;
+--formacionacademica__line: #00FF00;
+
+--credenciales__bg: #1E1E1E;
+--credenciales__titulos1: #FFFFFF;
+--credenciales__titulos2: #00FF00;
+--credenciales__scrollbar--bg: #00FF00;
+--credenciales__scrollbar--border: #1E1E1E;
+
+--portazetoFlix__bg: #FFFFFF;
+--portazetoFlix__titulo1: #1E1E1E;
+--portazetoFlix__titulo2: #00FF00;
+--portazetoFlix__descripciones: #1E1E1E;
+--portazetoFlix__btn--sitio: #1E1E1E;
+--portazetoFlix__btn--sitiolink: #FFFFFF;
+--portazetoFlix__btn--repositorio: #00FF00;
+
+--portafolioaluraGeek__bg: #000000;
+--portafolioaluraGeek__titulo1: #FFFFFF;
+--portafolioaluraGeek__titulo2: #00FF00;
+--portafolioaluraGeek__descripciones: #00FF00;
+--portafolioaluraGeek__descripciones2: #000000;
+--portafolioaluraGeek__btn--sitio: #00FF00;
+--portafolioaluraGeek__btn--repositorio: #000000;
+
+
+--portafoliomateriales__bg: #FFFFFF;
+--portafoliomateriales__titulo1: #17202a ;
+--portafoliomateriales__titulo2: #0B3164;
+--portafoliomateriales__btn--sitio: #17202a;
+--portafoliomateriales__btn--repositorio: #CC0000;
+--portafolioaluraGeek__descripciones1: #17202a;
+
+--contacto__bg: #000000;
+--contacto__titulo1: #FFFFFF;
+--contacto__titulo2: #00FF00;
+--contacto__info--iconos-correo: #00FF00;
+--contacto__form--bg: #1E1E1E;
+--contacto__form--border: #00FF00;
+--contacto__form--border2: #FFFFFF;
+--contacto__form--placeholder: #8B8B8B;
+--contacto__form--btn: #00FF00;
+--contacto__form--btn--link: #000000;
+
+--footer__bg: #000000;
+--footer__p: #00FF00;
+
+--font-family: 'Roboto Mono', monospace;
+--font-familytitulos: 'Anton', sans-serif;
+}
+
+body{
+    background-color: var(--formacionacademica__bg);
+}

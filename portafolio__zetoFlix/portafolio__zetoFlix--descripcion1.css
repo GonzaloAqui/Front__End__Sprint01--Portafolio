@@ -1,0 +1,20 @@
+.portafolio__zetoFlix--descripcion1 {
+    color: var(--portazetoFlix__descripciones);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 500;
+    padding-right: 1rem;
+    border-right: 2px solid var(--portazetoFlix__descripciones);
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__zetoFlix--descripcion1 {
+        padding-right: .5rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__zetoFlix--descripcion1 {
+        padding-right: .5rem;
+    }
+}

@@ -1,0 +1,13 @@
+.softSkills__indicador {
+    color: var(--softskills__titulo1);
+    width: 40px;
+    height: 40px;
+    padding-right: .5rem;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .softSkills__indicador {
+        width: 35px;
+        height: 35px;
+    }
+}

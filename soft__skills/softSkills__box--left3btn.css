@@ -1,0 +1,11 @@
+.softSkills__box--left3btn {
+    color: var(--softskills__btn--btn);
+    background-color: var(--softskills__btn--border--links);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px 100px;
+    border: 1px solid var(--softskills__btn--btn);
+    border-radius: 5px;
+    text-align: center;
+}

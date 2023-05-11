@@ -1,0 +1,7 @@
+.portafolio__zetoFlix--titulo1 {
+    color: var(--portazetoFlix__titulo1);
+    font-family: var(--font-familytitulos);
+    font-size: 2rem;
+    font-weight: 300;
+    text-transform: uppercase;
+}

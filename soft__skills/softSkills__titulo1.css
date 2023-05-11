@@ -1,0 +1,13 @@
+.softSkills__titulo1 {
+    color: var(--softskills__titulo1);
+    font-family: var(--font-familytitulos);
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .softSkills__titulo1 {
+        font-size: 2.5rem;
+    }
+}

@@ -1,0 +1,37 @@
+.portafolio__zetoFlix--container {
+    width: 1100px;
+    height: 850px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .portafolio__zetoFlix--container {
+        width: 700px;
+        height: 650px;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .portafolio__zetoFlix--container {
+        width: 80%;
+        height: 600px;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__zetoFlix--container {
+        width: 90%;
+        height: 650px;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+    }
+}

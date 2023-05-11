@@ -1,0 +1,12 @@
+.portafolio__zetoFlix--proyectoMobile {
+    width: 120px;
+    height: 250px;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .portafolio__zetoFlix--proyectoMobile {
+        width: calc(120px + 10%);
+        height: calc(250px + 20%);
+        padding-bottom: 3rem;
+    }
+}

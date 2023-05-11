@@ -1,0 +1,30 @@
+.softSkills__box--left2 {
+    width: 450px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px) {
+    .softSkills__box--left2 {
+        width: 450px;
+        height: 70px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .softSkills__box--left2 {
+        width: 100%;
+        height: 70px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .softSkills__box--left2 {
+        width: 350px;
+        height: 70px;
+
+    }
+}

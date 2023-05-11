@@ -1,0 +1,8 @@
+.principal__iconos {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.principal__iconos {
+    overflow: hidden;
+}

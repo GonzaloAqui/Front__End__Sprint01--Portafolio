@@ -1,0 +1,24 @@
+.softSkills__btn--estilo {
+    color: var(--softskills__btn--btn);
+    background-color: var(--softskills__btn--border--links);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 10px 60px;
+    border: 1px solid var(--softskills__btn--border--links);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.softSkills__btn--estilo:hover {
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+    transition: .2s;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .softSkills__btn--estilo {
+        padding: 10px 50px;
+    }
+}
