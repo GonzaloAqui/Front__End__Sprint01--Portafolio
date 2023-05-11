@@ -1,0 +1,26 @@
+.contacto__box--CTA {
+    width: 500px;
+    height: 667px;
+
+}
+
+@media screen and (max-width: 1024px) {
+    .contacto__box--CTA {
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__box--CTA {
+        width: 80%;
+        height: 550px;
+    }
+}
+
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__box--CTA {
+        width: 90%;
+        height: 500px;
+    }
+}

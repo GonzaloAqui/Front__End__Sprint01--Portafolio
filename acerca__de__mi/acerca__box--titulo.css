@@ -1,0 +1,19 @@
+.acerca__box--titulo {
+    display: flex;
+    
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .acerca__box--titulo {
+        width: 90%;
+        padding-top: 1rem;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .acerca__box--titulo {
+        width: 90%;
+    }
+}

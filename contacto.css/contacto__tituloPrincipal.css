@@ -1,0 +1,21 @@
+.contacto__tituloPrincipal {
+    color: var(--contacto__titulo1);
+    font-family: var(--font-familytitulos);
+    font-size: 2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__tituloPrincipal {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__tituloPrincipal {
+        display: flex;
+        justify-content: center;
+    }
+}

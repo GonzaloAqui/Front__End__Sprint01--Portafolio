@@ -1,0 +1,27 @@
+.contacto__box--formulario--mensaje {
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 400;
+    border: 1px solid var(--contacto__form--border2);
+    border-radius: 2px;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacto__box--formulario--mensaje {
+        width: 350px;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__box--formulario--mensaje {
+        width: 230px;
+        font-size: .8rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__box--formulario--mensaje {
+        width: 250px;
+        font-size: .8rem;
+    }
+}

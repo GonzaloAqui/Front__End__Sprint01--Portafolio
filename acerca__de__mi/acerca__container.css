@@ -1,0 +1,32 @@
+.acerca__container {
+    width: 60%;
+    height: 700px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 6rem;
+}
+
+@media screen and (max-width: 1024px){
+    .acerca__container {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .acerca__container {
+        width: 80%;
+        padding-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px){
+    .acerca__container {
+        width: 80%;
+        height: 550px;
+        padding-top: 2rem;
+    }
+}

@@ -1,0 +1,30 @@
+.contacto__box--formulario--campos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacto__box--formulario--campos {
+        width: 355px;
+    }
+    
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__box--formulario--campos {
+        width: 230px;
+        height: 400px;
+    }
+    
+}
+
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__box--formulario--campos {
+        width: 300px;
+        height: 450px;
+    }
+    
+}

@@ -1,0 +1,15 @@
+.acerca__titulo2 {
+    color: var(--acercademi__titulo2);
+    font-family: var(--font-familytitulos);
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-weight: 400;
+    padding-left: 1rem;
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .acerca__titulo2 {
+        font-size: 2.5rem;
+        padding-left: .5rem;
+    }
+}

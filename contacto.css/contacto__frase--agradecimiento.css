@@ -1,0 +1,20 @@
+.contacto__frase--agradecimiento {
+    display: flex;
+
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__frase--agradecimiento {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__frase--agradecimiento {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,29 @@
+.contacto__box--formulario {
+    width: 500px;
+    height: 650px;
+    background-color: var(--contacto__form--bg);
+    border-radius: 20px;
+    border: 1px solid var(--contacto__form--bg);
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacto__box--formulario {
+        width: 390px;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__box--formulario {
+        width: 80%;
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__box--formulario {
+        width: 80%;
+        height: 450px;
+    }
+}

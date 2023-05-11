@@ -1,0 +1,21 @@
+.acerca__info {
+    color: var(--acercademi__info);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: justify;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .acerca__info {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .acerca__info {
+        font-size: 14px;
+        width: 90%;
+    }
+}
+

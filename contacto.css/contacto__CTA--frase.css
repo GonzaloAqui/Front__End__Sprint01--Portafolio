@@ -1,0 +1,25 @@
+.contacto__CTA--frase {
+    color: var(--contacto__info--iconos-correo);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 300;
+    padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacto__CTA--frase {
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px){
+    .contacto__CTA--frase {
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__CTA--frase {
+        text-align: justify;
+    }
+}

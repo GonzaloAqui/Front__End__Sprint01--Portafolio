@@ -1,0 +1,26 @@
+.contacto__bg {
+    width: 100%;
+    height: 950px;
+    background-color: var(--contacto__bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 414px) and (max-width: 600px) {
+    .contacto__bg {
+        width: 100%;
+        height: 1200px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 413px) {
+    .contacto__bg {
+        width: 100%;
+        height: 1200px;
+        background-color: var(--contacto__bg);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

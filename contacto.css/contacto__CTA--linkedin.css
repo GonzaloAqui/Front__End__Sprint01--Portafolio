@@ -1,0 +1,11 @@
+.contacto__CTA--linkedin {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 1rem;
+}
+.contacto__CTA--linkedin:hover {
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+    transition: .4s;
+}
