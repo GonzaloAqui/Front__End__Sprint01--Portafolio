@@ -1,8 +1,8 @@
 ## Challenge ONE - Front End Sprint 01 - Portafolio
 
-### ¡Ey, bienvenido/da/de! 
+### ¡Ey, bienvenidos! 
 
-Con todos los nervios del mundo ha llegado el momento de plasmar lo aprendido en estos meses. ¿Que veras? algo perfecto tal vez no; pero eso si, esta echo con toda mi dedicación, cariño y empeño, terminando con estas palabras entro en materia compartiendote los componentes de mi proyecto :
+Les comparto los componentes de mi proyecto Portafolio :
 
 ####  Dev tools - *Visual Studio Code | Google Chrome | Viewport Resizer*
 ####  Arquitectura -*Atomic Design*
